@@ -1,2 +1,2 @@
 # College-Email-Bot
-Python bot emailing colleges for merchandise
+Python bot that emails colleges for merchandise
